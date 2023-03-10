@@ -1,3 +1,9 @@
+<h1 align="center">Notes</h1>
+<p align="center"> For All Movies : http://127.0.0.1:8000/api/movies </p>
+<p align="center"> For Special Movie : http://127.0.0.1:8000/api/movie/1 </p>
+<p align="center"> For All Categories : http://127.0.0.1:8000/api/categories </p>
+<p align="center"> For Special Category : http://127.0.0.1:8000/api/category/1 </p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
